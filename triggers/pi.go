@@ -1,0 +1,5 @@
+package triggers
+
+func Trigger() {
+
+}
